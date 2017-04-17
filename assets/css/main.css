@@ -1,0 +1,15 @@
+body{
+  font-family: 'Raleway', sans-serif;
+  margin-top: 20px;
+}
+
+div{
+  padding-bottom: 20px;
+  background-color: yellow;
+  }
+
+
+div.verbo{
+  background-color:magenta;
+  border: 1px solid black;
+  }

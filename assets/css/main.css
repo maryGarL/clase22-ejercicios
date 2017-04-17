@@ -1,18 +1,17 @@
 body{
   font-family: 'Raleway', sans-serif;
-  text-align: center;
   margin-top: 20px;
 }
 
 div{
   display: inline-block;
-  padding-bottom: 20px;
+  padding-bottom: 52px;
   padding-top: 2px;
   padding-left: 9px;
   padding-right: 9px;
   background-color: yellow;
-  margin-bottom: 10px;
-  width: auto;
+  margin: 0 auto;
+  width: 152px;
   height: 33px;
   height: 1px;
   }
@@ -21,3 +20,11 @@ div{
 div.verbo{
   background-color:magenta;
   }
+.contenedor{
+  display: inline-block;
+  height: auto;
+  width: inherit;
+  background: white;
+  position: relative;
+  margin-left: 384px;
+}

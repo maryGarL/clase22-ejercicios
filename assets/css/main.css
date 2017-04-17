@@ -10,7 +10,7 @@ div{
   padding-left: 9px;
   padding-right: 9px;
   background-color: yellow;
-  margin: 0 auto;
+  margin: 0px;
   width: 152px;
   height: 33px;
   height: 1px;
@@ -21,10 +21,15 @@ div.verbo{
   background-color:magenta;
   }
 .contenedor{
-  display: inline-block;
+  display: block;
   height: auto;
   width: inherit;
   background: white;
-  position: relative;
-  margin-left: 384px;
+  padding: 9px 0px;
+  }
+.duo{
+  display: inline-block;
+}
+.solo{
+  display: block;
 }
